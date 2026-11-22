@@ -78,6 +78,7 @@ object MDConstants {
     const val CONTENT_RATING_PREF_VAL_EROTICA = "erotica"
     const val CONTENT_RATING_PREF_VAL_PORNOGRAPHIC = "pornographic"
     val contentRatingPrefDefaults = setOf(CONTENT_RATING_PREF_VAL_SAFE, CONTENT_RATING_PREF_VAL_SUGGESTIVE)
+
     // Kids build: every request is limited to safe
     val allContentRatings = setOf(CONTENT_RATING_PREF_VAL_SAFE)
 

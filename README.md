@@ -10,9 +10,21 @@
 |---|---|---|---|
 | 動漫屋（兒童） | zh.dm5.kids | 站方「限制级」分類＋關鍵字＋黑名單 | ✅ 成人書搜不到、網址直開 0 章；一般書正常 |
 | 嗶哩漫畫（兒童） | zh.bilimanga.kids | 關鍵字＋黑名單（站方無成人標記） | ✅ 成人書 0 章、葬送的芙莉蓮 147 章 |
-| 拷貝漫畫（兒童） | zh.kaobeimanhua.kids | 站方 restrict 欄＋關鍵字＋黑名單 | ⚠️ 尚未實測 |
-| MyComic（兒童） | zh.mycomic.kids | 關鍵字＋黑名單 | ⚠️ 尚未實測 |
-| MangaDex Kids | all.mangadex.kids | 所有請求寫死只要 safe 分級，設定頁分級選項移除 | ⚠️ 尚未實測 |
+| 拷貝漫畫（兒童） | zh.kaobeimanhua.kids | 站方 restrict 欄＋關鍵字＋黑名單 | ✅ 搜「工口」原版整排、兒童版 0 本；一般書有章節 |
+| MyComic（兒童） | zh.mycomic.kids | 關鍵字＋黑名單 | ✅ 搜「工口」原版整排、兒童版 0 本；一般書有章節 |
+| MangaDex Kids | all.mangadex.kids | 所有請求寫死只要 safe 分級，設定頁分級選項移除 | ✅ 搜「工口」原版 2 本、兒童版 0 本；一般書有章節 |
+| 包子漫画（兒童） | zh.baozimanhua.kids | 關鍵字＋黑名單 | ✅ 搜「工口」原版整排、兒童版只剩一般書 |
+| GoDa漫画（兒童） | zh.baozimhorg.kids | 關鍵字＋黑名單 | ⚠️ 書名含關鍵字的擋掉；書名不含關鍵字但內容偏成人的會漏 |
+| 如漫画（兒童） | zh.rumanhua.kids | 關鍵字＋黑名單 | ✅ 搜「工口」原版 5 本、兒童版 0 本 |
+| 我爱漫画（兒童） | zh.woaimanhua.kids | 關鍵字＋黑名單 | ⚠️ 書名含關鍵字的擋掉；此站成人書多數書名不含關鍵字，會漏，建議不給小孩用 |
+| 漫画柜（兒童） | zh.manhuagui.kids | R18 開關永遠關＋關鍵字＋黑名單 | ✅ 搜「工口」原版整排、兒童版只剩一般書 |
+| 快看漫画（兒童） | zh.kuaikanmanhua.kids | 關鍵字＋黑名單 | ✅ 兒童版與原版一般書結果相同 |
+| 腾讯动漫（兒童） | zh.tencentcomics.kids | 關鍵字＋黑名單 | ✅ 兒童版與原版結果相同（站方本身無成人分類） |
+| 再漫画（兒童） | zh.zaimanhua.kids | 關鍵字＋黑名單 | ✅ 一般書有章節 |
+| CCC追漫台（兒童） | zh.creativecomic.kids | 關鍵字＋黑名單 | ✅ 一般書有章節 |
+| 瓜子漫画（兒童） | zh.guazimanhua.kids | 關鍵字＋黑名單 | ✅ 搜一般書結果與原版相同 |
+| 無限動漫（兒童） | zh.comicabc.kids | 關鍵字＋黑名單 | ⚠️ 未能實測（原版當天也連不上站） |
+| Dongman Manhua（兒童） | zh.dongmanmanhua.kids | 關鍵字＋黑名單 | ⚠️ 未能實測（原版當天也逾時） |
 
 其他中文來源製作中。
 
