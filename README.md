@@ -47,3 +47,7 @@
 - 這只擋漫畫程式裡的內容。小孩要是能自己裝程式、開瀏覽器，一分鐘就能繞過，要搭配系統層的限制。
 
 授權：Apache-2.0（沿用上游）。
+
+## 下載安裝檔
+
+17 個兒童版漫畫來源的安裝檔放在發行版：https://github.com/bockybocky/mihon-kids/releases/tag/v1.0-kids
