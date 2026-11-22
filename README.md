@@ -1,4 +1,5 @@
 # mihon-kids（已搬家）
+n> 同一份程式也放在 https://github.com/bockybocky/duokan-pro2-mod/tree/main/mihon-kids（電紙書改機教學）。
 
 程式已搬到 https://github.com/bockybocky/duokan-pro2-mod/tree/main/mihon-kids
 
